@@ -8,3 +8,4 @@ value_july_next_2_year: '4'
 value_december_next_2_year: '5'
 txt_no_more_seat: Sorry, there are no more seats available.
 txt_seat_available: Seats available!
+txt_unfotunately: Unfortunately, this schedule is not possible. Please try again.
